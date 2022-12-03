@@ -1,4 +1,2 @@
 FlowFailedNNN|SS
 LumaFailedNNN|SS
-doxxnotice|SS
-Broask495|SS
